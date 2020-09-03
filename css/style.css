@@ -30,7 +30,7 @@ body {
 }
 
 h1 {
-	font-size: 45px;
+	font-size: 37px;
 	margin-bottom: -25px;
 }
 
@@ -73,7 +73,7 @@ a:hover {
 .note {
 	background: #0fd8da;
 	padding: 20px;
-	color: #161625;
+	color: #110000;
 	margin: 10px 0;
 }
 
@@ -86,7 +86,7 @@ a:hover {
 }
 
 #logo a {
-	display: block;	
+	display: block;
 	padding: 10px 0 10px 0;
 	text-align: center;
 }
@@ -107,7 +107,7 @@ a:hover {
 
 #sidebar ul a {
 	text-decoration: none;
-	color: #161625;
+	color: #4f47f3;
 	display: block;
 	height: 36px;
 	line-height: 36px;
@@ -149,6 +149,3 @@ a:hover {
 	margin-left: 250px;
 	padding: 27px 45px;
 }
-
-
-
