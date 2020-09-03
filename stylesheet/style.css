@@ -99,7 +99,7 @@ figure {
 
  :focus {
     outline: none !important;
-    
+
 }
 
 table {
@@ -194,8 +194,8 @@ body {
     overflow: hidden;
 }
 
-a { 
-    font-size: 15px;    
+a {
+    font-size: 15px;
     text-decoration: none;
     color: #3b4250;
     -webkit-transition: all 0.3s ease-in-out;
@@ -223,7 +223,7 @@ ul, ol {
 
 img {
     max-width: 100%;
-    height: auto;       
+    height: auto;
 }
 
 b, strong {
@@ -237,7 +237,7 @@ button {
 button,
 input[type="button"],
 input[type="reset"],
-input[type="submit"] {      
+input[type="submit"] {
     display: inline-block;
     padding: 18px 39px 23px 40px;
     line-height: 24px;
@@ -256,7 +256,7 @@ input[type="submit"] {
 button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
-input[type="submit"]:hover {        
+input[type="submit"]:hover {
     color: #fff;
     background: #3742d2;
 }
@@ -276,7 +276,7 @@ input[type="url"],
 input[type="search"],
 input[type="tel"],
 input[type="color"],
-input[type="email"] {   
+input[type="email"] {
     position: relative;
     display: block;
     width: 100%;
@@ -288,7 +288,7 @@ input[type="email"] {
     border: 1px solid #e8ebf6;
     height: 70px;
     background-color: #fff;
-    border-radius: 5px; 
+    border-radius: 5px;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
@@ -330,7 +330,7 @@ input[type="checkbox"] {
 textarea:-moz-placeholder,
 textarea::-moz-placeholder,
 input:-moz-placeholder,
-input::-moz-placeholder {       
+input::-moz-placeholder {
     color: #5f7586;
     opacity: 1;
 }
@@ -352,7 +352,7 @@ input::-webkit-input-placeholder {
 .header-style2 #mainnav .menu li a {
     color: #ffffff;
 }
-.header-style1 #mainnav .menu > li > .sub-menu > li > a.active, 
+.header-style1 #mainnav .menu > li > .sub-menu > li > a.active,
 .header-style1 #mainnav .menu > li > .sub-menu > li > a:hover,
 #bottom .socials-list.color-s1 a:hover,
 .widget-nav-menu.color-s1 li a:hover {
@@ -423,7 +423,7 @@ input::-webkit-input-placeholder {
     height: 60px;
     content: "";
     -webkit-animation: preloader-wave 1.6s linear infinite;
-    animation: preloader-wave 1.6s linear infinite; 
+    animation: preloader-wave 1.6s linear infinite;
     border-radius: 50%;
     background: #fbbd41;
 }
@@ -613,7 +613,7 @@ input::-webkit-input-placeholder {
 }
 .lt-sp07 {
     letter-spacing: 0.7px;
-} 
+}
 .lt-sp08 {
     letter-spacing: 0.8px;
 }
@@ -801,13 +801,13 @@ input::-webkit-input-placeholder {
     box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.2);
 }
 
-.header-style1.header-shadow .socials-list-hd a, 
+.header-style1.header-shadow .socials-list-hd a,
 .header-style1.header-shadow #mainnav .menu li a,
-.header-style2.header-shadow .socials-list-hd a, 
+.header-style2.header-shadow .socials-list-hd a,
 .header-style2.header-shadow #mainnav .menu li a,
-.header-style3.header-shadow .socials-list-hd a, 
+.header-style3.header-shadow .socials-list-hd a,
 .header-style3.header-shadow #mainnav .menu li a,
-.header-style4.header-shadow .socials-list-hd a, 
+.header-style4.header-shadow .socials-list-hd a,
 .header-style4.header-shadow #mainnav .menu li a {
     color: #23233f;
 }
@@ -843,7 +843,7 @@ input::-webkit-input-placeholder {
 -------------------------------------------------------------- */
 #mainnav .menu li a {
     font-size: 17px;
-    color: #dcc2f3;
+    color: #4f47f3;
 }
 #mainnav .menu > li {
     display: inline-block;
@@ -1005,7 +1005,7 @@ input::-webkit-input-placeholder {
     background-color:  rgba(255, 255, 255, 0.2)
 }
 .socials-list-hd.hv1 a:hover {
-    color: #fbbd41;
+    color: #4f47f3;
 }
 .socials-list-hd.hv2 a:hover {
     color: #627fff;
@@ -1015,7 +1015,7 @@ input::-webkit-input-placeholder {
 }
 .hire-me-s1 a {
     padding: 8px 24px 7px 24px;
-    background-color: #a345fb;
+    background-color: #4f47f3;
 }
 .btn-hv1 a {
     position: relative;
@@ -1307,7 +1307,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
 }
 .flat-case-study.s1 .owl-dot,
 .testimonial.t2 .owl-dot {
-    margin: 0 50px 0 0; 
+    margin: 0 50px 0 0;
 }
 .custom-dot.dot-s1 .owl-dots .owl-dot.active {
     background-color: #3e35ca;
@@ -1415,7 +1415,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
     color: #3e35ca;
     font-family: 'Muli', sans-serif;
 }
-.testimonial.t2 {    
+.testimonial.t2 {
     display: flex;
     height: 100%;
     align-items: center;
@@ -1590,7 +1590,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
 .fact .col-right {
     width: 50%;
     padding-left: 30px;
-} 
+}
 .fact {
     top: -26px;
     right: -122px;
@@ -1616,7 +1616,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
 .fact .btn-contact.bg-s2 {
     background-color: #111527;
 }
-.fact .btn-contact .title { 
+.fact .btn-contact .title {
     font-size: 20px;
     margin-bottom: 10px;
     font-family: 'Archivo Black', sans-serif;
@@ -1881,7 +1881,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
     padding: 194px 0 93px;
 }
 .flat-education.s3 .flat-title {
-    margin-bottom: 74px; 
+    margin-bottom: 74px;
 }
 .flat-education.s3 .padding-bottom {
     border-bottom: 1px dashed #627fff;
@@ -2271,7 +2271,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
 }
 .footer-widget-s2 .site-list {
     padding: 155px 0 55px 0;
-} 
+}
 .footer-widget-s3 {
     padding: 189px 0 205px 0;
 }
@@ -2436,7 +2436,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
     display: flex;
     height: 100%;
     align-items: center;
-    justify-content: center;    
+    justify-content: center;
 }
 
 .about-me.s2 .featured-post {
@@ -2744,7 +2744,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
 }
 .sub-comment {
     padding-left: 60px;
-} 
+}
 .content-blog .tags-list a {
     font-size: 14px;
     line-height: normal;
@@ -2769,7 +2769,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
 }
 .widget-categories .categories-list li {
     display: -ms-flexbox;
-    display: flex; 
+    display: flex;
     -ms-flex-pack: justify;
     justify-content: space-between;
     margin-bottom: 6px;
@@ -2837,7 +2837,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
     cursor: pointer;
     display: -ms-flexbox;
     display: flex;
-    flex-direction: column;   
+    flex-direction: column;
     justify-content: space-between;
     justify-content: center;
     position: relative;
@@ -2879,7 +2879,7 @@ body.home4 .modalbox-wrapper .modal-content {
     background-position: bottom;
 }
 
-body.home4 .modalbox-wrapper .close-animatedModal:before, 
+body.home4 .modalbox-wrapper .close-animatedModal:before,
 body.home4 .modalbox-wrapper .close-animatedModal:after {
     background: #fff;
 }
@@ -2910,7 +2910,7 @@ body.home4 .modalbox-wrapper .close-animatedModal:after {
     top: 0;
     bottom: 0;
     right: 0;
-    z-index: -98;    
+    z-index: -98;
     background: rgba(0, 0, 0, 0.9);
     opacity: 0;
     visibility: hidden;
@@ -2926,7 +2926,7 @@ body.home4 .modalbox-wrapper .close-animatedModal:after {
 #mobile-menu-overlay.active {
     opacity: 1;
     visibility: visible;
-    z-index: 9999;   
+    z-index: 9999;
 }
 
 #mainnav-mobi ul li {
@@ -2934,14 +2934,14 @@ body.home4 .modalbox-wrapper .close-animatedModal:after {
     position: relative;
     text-align: left;
     border-top: 1px solid rgba(255, 255, 255, 0.07);
-    cursor: pointer;    
+    cursor: pointer;
 }
 
 #mainnav-mobi ul > li > a {
     text-decoration: none;
     padding: 0 0;
     line-height: 60px;
-    padding-left: 35px;  
+    padding-left: 35px;
 }
 
 #mainnav-mobi ul.sub-menu {
@@ -2984,7 +2984,7 @@ body.home4 .modalbox-wrapper .close-animatedModal:after {
     display: block;
 }
 
-#mainnav-mobi ul li .btn-submenu.active, 
+#mainnav-mobi ul li .btn-submenu.active,
 #mainnav-mobi ul > li.active > a,
 #mainnav-mobi ul li a.active {
     color: rgba(255,255,255,1);
@@ -3005,7 +3005,7 @@ body.home4 .modalbox-wrapper .close-animatedModal:after {
     width: 30px;
     height: 30px;
 }
-#mobile-menu-overlay .tf-close:before, 
+#mobile-menu-overlay .tf-close:before,
 #mobile-menu-overlay .tf-close:after {
     content: "";
     position: absolute;
